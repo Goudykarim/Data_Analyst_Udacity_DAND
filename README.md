@@ -1,1 +1,1 @@
-# iNVESTIGATE_Dataset_100k medical appointments
+# INVESTIGATE_Dataset_100k medical appointments
